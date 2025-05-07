@@ -1,0 +1,61 @@
+<style>
+body {
+  font-family: AlphaMack 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+  margin: 2em;
+  line-height: 1.6;
+  background-color: #6f1568;
+  color: #200e0e;
+}
+h1, h2 {
+  color: #0b1824;
+}
+.highlight {
+  color: green;
+  font-weight: bold;
+}
+pre {
+  background-color: #f973dc;
+  padding: 10px;
+  border-radius: 4px;
+}
+code {
+  background-color: #f973dc;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+.sumas td {
+  padding: 4px 10px;
+}
+button {
+  padding: 10px;
+  background-color: #b762b7;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+  font-size: 16px;
+}
+button:hover {
+  background-color: #b762b7;
+}
+.container {
+  margin-bottom: 40px;
+}
+.exercise {
+  background-color: #eacedc;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+.image-container {
+  margin-top: 20px;
+  text-align: center;
+}
+.image-container img {
+  max-width: 80%;
+  height: auto;
+  border-radius: 8px;
+}
+</style>
